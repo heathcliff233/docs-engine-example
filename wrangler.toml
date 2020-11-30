@@ -4,5 +4,5 @@ account_id = "8c3ded8031b5fc24914f3205bdf61093" # adam.workers.dev
 workers_dev = true
 
 [site]
-#bucket = ".docs/public/" # Add pathPrefix here if necessary
+bucket = ".docs/public/" # Add pathPrefix here if necessary
 entry-point = ".docs/workers-site"
