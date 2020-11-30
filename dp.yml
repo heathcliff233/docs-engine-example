@@ -1,3 +1,6 @@
 - name: Deploy to Cloudflare Workers with Wrangler
   uses: cloudflare/wrangler-action@1.2.0
+  inputs:
+    apiToken:
+      description: "eES3_BunbaiL6rqeYuBc7HknOFBI0zWQgbo5VBqF"
 
