@@ -12,7 +12,8 @@ jobs:
     steps:
       - uses: actions/checkout@v2
       - name: Publish
-        uses: cloudflare/wrangler-action@1.3.0
+        uses: cloudflare/wrangler-action@1.2.0
         with:
-          apiToken: ${{ secrets.CF_API_TOKEN }}
+          apiToken: 3tGyWAatqFlgmMnn4-feDwUWVAw8yNykE8Lo8QgL
+          #${{ secrets.CF_API_TOKEN }}
 
