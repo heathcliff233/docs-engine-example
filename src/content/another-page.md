@@ -2,7 +2,7 @@ import ColorSquare from "./components/color-square.js"
 
 # Another page
 
-This is just another page to test navigation between pages.
+yes, This is just another page to test navigation between pages.
 
 Here’s a test of including a custom MDX component:
 
